@@ -5,7 +5,7 @@
 KotoHashi (言橋, "a bridge of words") turns speech into text on the spot, translates it, and reads the translation aloud. It also transcribes by speaker, showing who said what, and summarizes the conversation with AI. It is handy when traveling abroad too, with a face-to-face mode and example conversations for travel and more (16 free, 64 with the paid plan).
 It supports **Japanese, English, and Traditional Chinese (Taiwan)**. All audio processing happens on your device; neither audio nor text is sent anywhere.
 
-This manual covers v0.1 for iPhone, iPad, and Mac. The Android version supports only the basics of Live, face-to-face mode, the Library, the examples, and Settings (it has no audio-file import, playback of recordings, speaker separation, summaries, or Save to file).
+This manual covers v1.0 for iPhone, iPad, and Mac. The Android version supports only the basics of Live, face-to-face mode, the Library, the examples, and Settings (it has no audio-file import, playback of recordings, speaker separation, summaries, or Save to file).
 
 ## Contents
 
@@ -233,4 +233,4 @@ The Apple Watch app only records. Transcription happens on the iPhone that recei
 
 ---
 
-KotoHashi v0.1. The source code is not public.
+KotoHashi v1.0. The source code is not public.

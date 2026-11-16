@@ -26,7 +26,7 @@
 
 ---
 
-- Version: v0.1（iPhone / iPad / Mac / Apple Watch。Android 版は基本の機能のみ / Android: basic features only / Android 版僅有基本功能）
+- Version: v1.0（iPhone / iPad / Mac / Apple Watch。Android 版は基本の機能のみ / Android: basic features only / Android 版僅有基本功能）
 - バナーとアイコンの文字は、SIL Open Font License のフォント（Inter、Noto Sans JP、LXGW WenKai TC）で描いています。
   The lettering in the banner and icon uses fonts under the SIL Open Font License (Inter, Noto Sans JP, LXGW WenKai TC).
 - このリポジトリにはマニュアルだけを置いています。ソースコードは公開していません。
