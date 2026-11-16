@@ -2,7 +2,7 @@
 
 [日本語](manual-ja.md) ｜ [繁體中文](manual-zh-TW.md) ｜ [Home](../README.md)
 
-KotoHashi (言橋, "a bridge of words") turns speech into text on the spot, translates it, and reads the translation aloud. It also transcribes by speaker, showing who said what, and summarizes the conversation with AI.
+KotoHashi (言橋, "a bridge of words") turns speech into text on the spot, translates it, and reads the translation aloud. It also transcribes by speaker, showing who said what, and summarizes the conversation with AI. It is handy when traveling abroad too, with a face-to-face mode and 32 example conversations for travel.
 It supports **Japanese, English, and Traditional Chinese (Taiwan)**. All audio processing happens on your device; neither audio nor text is sent anywhere.
 
 This manual covers v0.1 for iPhone, iPad, and Mac. The Android version supports only the basics of Live, face-to-face mode, the Library, the examples, and Settings (it has no audio-file import, playback of recordings, speaker separation, summaries, or Save to file).
