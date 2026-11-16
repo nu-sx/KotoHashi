@@ -15,6 +15,8 @@
 |---|---|
 | ![Live](images/ja-live.png) | ![Face-to-face](images/ja-face.png) |
 
+- プライバシーポリシー / Privacy Policy / 隱私權政策: [docs/privacy.md](docs/privacy.md)
+
 ## プロモーション素材 / Promotional material / 宣傳素材
 
 ![hero](promo/hero-1920x1080.png)
