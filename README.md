@@ -2,13 +2,13 @@
 
 # 言橋 / KotoHashi
 
-**日本語** ｜ 話した言葉をその場で文字にして、翻訳し、読み上げるアプリです。日本語・英語・繁體中文（台湾）に対応し、音声の処理はすべて端末の中で行います。
+**日本語** ｜ 話した言葉をその場で文字にして、翻訳し、読み上げるアプリです。それだけでなく、誰が話したかを分ける「話者別の文字起こし」と、会話の要点をまとめる「AI 要約」も行えます。日本語・英語・繁體中文（台湾）に対応し、音声の処理はすべて端末の中で行います。
 → [マニュアル（日本語）](docs/manual-ja.md)
 
-**English** ｜ An app that turns speech into text on the spot, translates it, and reads it aloud. It supports Japanese, English, and Traditional Chinese (Taiwan), and all audio processing stays on your device.
+**English** ｜ An app that turns speech into text on the spot, translates it, and reads it aloud. It also transcribes by speaker, showing who said what, and summarizes the conversation with AI. It supports Japanese, English, and Traditional Chinese (Taiwan), and all audio processing stays on your device.
 → [Manual (English)](docs/manual-en.md)
 
-**繁體中文** ｜ 把說出的話即時轉成文字、翻譯並朗讀的 App。支援日文、英文、繁體中文（台灣），所有語音處理都在裝置內完成。
+**繁體中文** ｜ 把說出的話即時轉成文字、翻譯並朗讀的 App。不僅如此，還能做到「依說話者區分的逐字稿」與「AI 摘要」。支援日文、英文、繁體中文（台灣），所有語音處理都在裝置內完成。
 → [使用手冊（繁體中文）](docs/manual-zh-TW.md)
 
 | | |
