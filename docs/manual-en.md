@@ -64,6 +64,20 @@ Good to know:
 - A short pause ends the current utterance.
 - While a translation is being read aloud, the microphone is not passed to recognition, so the app does not pick up its own voice (the audio is still recorded). Speak after the reading finishes.
 
+### Chinese readings (pinyin and zhuyin)
+
+Each press of the 拼 button at the top switches pinyin → zhuyin → off. The reading appears below Chinese text and below Chinese translations. It is also shown on the Chinese side of face-to-face mode, in the Library, and in session details. The “Katakana / Pinyin / Zhuyin” buttons at the top of the Library and of a session also switch it.
+
+### Record (by speaker) mode
+
+Choose “Record (by speaker)” with the switch under the language bar to record only, without live text. It suits meetings and group talks where several people speak.
+
+1. Under “Speakers”, choose automatic or a number (2–8; 5 or more need the paid plan). If you know the number, setting it gives better results.
+2. Press “Record”, then “Stop”; the recording goes to the Library.
+3. Open the recording in the Library and press “Re-analyze transcription” to get the text separated by speaker.
+
+Recordings made on Apple Watch arrive in the Library the same way (speaker count: automatic).
+
 ## 3. Face-to-face mode
 
 ![Face-to-face mode](../images/en-face.png)
@@ -116,12 +130,12 @@ The number of sessions is shown and you confirm before anything is removed. Remo
 - **Play**: the play button at the bottom plays the recording. Tap a bubble to play from that utterance.
 - **Edit text**: long-press a bubble → "Edit text".
 - **Speakers**:
-  - "…" at the top right → "Separate speakers" re-divides the speakers from the voices in the recording (automatic, a set number, or none).
+  - "…" at the top right → "Separate speakers" re-divides the speakers from the voices in the recording (automatic, a set number, or none). On the paid plan a trained speaker model separates up to 8 speakers (similar voices can be mixed up); the model (about 21 MB) is downloaded once, the first time it is used.
   - **Tap the speaker badge** on a bubble to give that speaker a name.
   - Long-press a bubble to change its speaker.
 - **Re-analyze transcription**: transcribes the recording again from start to end (the current text is replaced).
 - **Trim the recording**: "…" → "Trim the recording" lets you choose the part to keep (start and end). The transcript for the removed parts is removed too, and this cannot be undone.
-- **Translate all**: from "…", translates the whole conversation into the language you choose.
+- **Translate all**: from "…", translates the whole conversation into the language you choose. “Clear translations” at the bottom removes only the translations.
 - **Date**: tap the date in the heading to change the date and time.
 
 ### Summarize

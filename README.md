@@ -17,6 +17,15 @@
 
 - プライバシーポリシー / Privacy Policy / 隱私權政策: [docs/privacy.md](docs/privacy.md)
 
+## v1.0 の主な機能 / Main features / 主要功能
+
+- ライブの文字起こし・翻訳・読み上げ、対面モード / Live transcription, translation and speech, face-to-face mode / 即時轉寫、翻譯、朗讀與面對面模式
+- 録音（話者別）モードと、学習済みモデルによる話者分け（有料プランで最大 8 人） / Record-only mode and speaker separation with a trained model (up to 8 speakers on the paid plan) / 錄音模式與訓練模型的說話者區分（付費方案最多 8 位）
+- 中国語の読み方（拼音・注音）とカタカナ表示 / Chinese readings (pinyin, zhuyin) and katakana / 中文讀音（拼音、注音）與片假名
+- AI 要約、会話例（無料 16 件・有料 64 件）、Apple Watch での録音 / AI summaries, example conversations (16 free, 64 paid), recording on Apple Watch / AI 摘要、會話範例（免費 16 則、付費 64 則）、Apple Watch 錄音
+
+<img src="images/splash.png" width="240" alt="Opening screen">
+
 ## プロモーション素材 / Promotional material / 宣傳素材
 
 ![hero](promo/hero-1920x1080.png)
