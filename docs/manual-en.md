@@ -222,7 +222,7 @@ The Apple Watch app only records. Transcription happens on the iPhone that recei
 |---|---|---|
 | Transcriptions | Up to 5 a day | Unlimited |
 | Save to file and export | Not available | Available |
-| Speakers that can be separated | Up to 4 | Up to 10 |
+| Speakers that can be separated | Up to 4 | Up to 8 (similar voices can be mixed up) |
 | Conversation examples | 16 | 64 |
 
 - Starting a recording, importing an audio file, and re-analyzing a transcription each count as one. You get five more the next day.
