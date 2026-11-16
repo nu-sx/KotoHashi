@@ -169,7 +169,7 @@ Add them with "Show conversation examples" in an empty Library or "Add conversat
 |---|---|
 | My language | The language you speak. **The app's own text follows it** |
 | Partner's language | The language to translate into. "No translation" is also available |
-| Number of speakers | How many speakers to divide audio files and untranslated recordings into (automatic, none, or 2–10; 5 or more need the paid plan) |
+| Number of speakers | How many speakers to divide audio files and untranslated recordings into (automatic, none, or 2–8; 5 or more need the paid plan) |
 | Katakana display | Off / below the original / katakana only |
 | Write particles as pronounced | Writes は as ワ, and so on |
 | Speech | Whether to read translations aloud, and how fast |
