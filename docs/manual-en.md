@@ -182,7 +182,7 @@ Translations are read with the best voice installed on the device. For a more na
 
 - Speech recognition, translation, and speech synthesis all run on the device. No audio or text is sent to any server.
 - Recordings, text, and translations are stored only on this device.
-- The only network use is the system downloading recognition data, translation data, or voices.
+- The only network use is the system downloading recognition data, translation data, or voices, and the one-time download of the speaker model (about 21 MB) the first time the paid plan separates speakers.
 
 ## 9. Troubleshooting
 
